@@ -4,6 +4,6 @@
 
 @layer components {
   .inputClass {
-    @apply w-full h-16 text-center text-lg font-bold border-b border-b-red-300 bg-transparent placeholder-white;
+    @apply w-full h-12 text-center text-lg font-bold border-b border-b-red-300 bg-transparent placeholder-white;
   }
 }
